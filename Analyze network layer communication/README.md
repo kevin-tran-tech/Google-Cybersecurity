@@ -1,6 +1,6 @@
 ## Portfolio Activity: Analyze network layer communication
 
-### Overview
+## Overview
 
 This repository contains a detailed analysis of a cybersecurity incident involving DNS and ICMP traffic. The goal of this activity was to analyze network traffic logs, identify the network protocol utilized, and determine the cause of the network issue.
 
