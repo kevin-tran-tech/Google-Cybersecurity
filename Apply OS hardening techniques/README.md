@@ -2,7 +2,7 @@
 
 ### Activity Overview
 
-In this activity, I read the scenario and filled out the [report](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Apply%20OS%20hardening%20techniques/Security%20incident%20report.pdf) on identifying the network security protocol during the investigation, documenting the incident, and suggusting a security control.
+In this activity, I read the scenario and use supporting materials such as "[tcpdump traffic log](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Apply%20OS%20hardening%20techniques/tcpdump%20traffic%20log.pdf)" and "[How to read the tcp traffic log](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Apply%20OS%20hardening%20techniques/How%20to%20read%20the%20tcpdump%20traffic%20log.pdf)" to filled out the [report](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Apply%20OS%20hardening%20techniques/Security%20incident%20report.pdf) on identifying the network security protocol during the investigation, documenting the incident, and suggusting a security control.
 
 ### Scenario
 
