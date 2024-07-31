@@ -1,5 +1,9 @@
 ## Portfolio Activity: Analysis of network hardening
 
+### Activity Overview
+
+In this activity, I conducted an analysis by reading the following scenario and selected up to three [network hardening tools](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Analysis%20of%20network%20hardening/Network%20hardening%20tools%20.pdf) from the list I think can be used to prevent attacks and breaches in the future and the reasons behind it. 
+
 ### Scenario
 
 You are a security analyst working for a social media organization. The organization recently experienced a major data breach, which compromised the safety of their customers’ personal information, such as names and addresses. Your organization wants to implement strong network hardening practices that can be performed consistently to prevent attacks and breaches in the future. 
