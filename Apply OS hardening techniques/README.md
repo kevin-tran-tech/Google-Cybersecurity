@@ -2,7 +2,7 @@
 
 ### Activity Overview
 
-In this activity, I have
+In this activity, I read the scenario and filled out the [report](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Apply%20OS%20hardening%20techniques/Security%20incident%20report.pdf) on identifying the network security protocol during the investigation, documenting the incident, and suggusting a security control.
 
 ### Scenario
 
