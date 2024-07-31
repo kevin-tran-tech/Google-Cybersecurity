@@ -2,3 +2,4 @@
 
 
 ### Key Takeaways
+- Technical Writing
