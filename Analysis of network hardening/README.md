@@ -2,7 +2,7 @@
 
 ### Activity Overview
 
-In this activity, I conducted an analysis by reading the following scenario and selected up to three [network hardening tools](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Analysis%20of%20network%20hardening/Network%20hardening%20tools%20.pdf) from the list I think can be used to prevent attacks and breaches in the future and the reasons behind it. 
+In this activity, I conducted an analysis by reviewing the following scenario below and selected up to three [network hardening tools](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Analysis%20of%20network%20hardening/Network%20hardening%20tools%20.pdf) from the list I think can be used to prevent attacks and breaches in the future. I then complete the [Security risk assessment report](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Analysis%20of%20network%20hardening/Security%20risk%20assessment%20report.pdf) to provide recommendations.
 
 ### Scenario
 
