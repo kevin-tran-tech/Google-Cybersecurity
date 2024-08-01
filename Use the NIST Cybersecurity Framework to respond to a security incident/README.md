@@ -32,4 +32,4 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 - <b>Respond</b> to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
 
-Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
+- <b>Recover</b> affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
