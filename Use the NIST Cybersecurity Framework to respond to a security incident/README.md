@@ -2,7 +2,7 @@
 
 ### Activity Overview
 
-In this activity, I read the following scenario below
+In this activity, I read the following scenario below and developed a better understanding NIST Security Framework by filling out the [Incident report analysis](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Use%20the%20NIST%20Cybersecurity%20Framework%20to%20respond%20to%20a%20security%20incident/Incident%20report%20analysis.pdf) using supporting documents such as [Learning how to apply NIST Security framework](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Use%20the%20NIST%20Cybersecurity%20Framework%20to%20respond%20to%20a%20security%20incident/Applying%20the%20NIST%20CSF%20.pdf) and using an example incident report analysis as a guideline to write up the report. 
 
 ### Scenario
 
