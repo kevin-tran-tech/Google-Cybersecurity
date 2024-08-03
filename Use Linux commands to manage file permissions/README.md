@@ -2,6 +2,8 @@
 
 ### Activity Overview
 
+In this activity, I demonstrated my experience using Linux commands to manage file permissions. I reviewed the following scenario below and 
+
 ### Scenario
 
 You are a security professional at a large organization. You mainly work with their research team. Part of your job is to ensure users on this team are authorized with the appropriate permissions. This helps keep the system secure. 
