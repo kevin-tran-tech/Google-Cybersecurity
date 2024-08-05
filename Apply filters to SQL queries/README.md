@@ -2,6 +2,8 @@
 
 ### Activity Oveview
 
+In this activity, I had to ensure that the organization's system is safe. I investigated potential security issues, and update employee computers as needed. I read the following scenario and read the supporting materials to complete my report on [Apply filters to SQL queries](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Apply%20filters%20to%20SQL%20queries/Apply%20filters%20to%20SQL%20queries.pdf).
+
 ### Access Supporting Materials
 - [Instructions for including SQL queries](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Apply%20filters%20to%20SQL%20queries/Instructions%20for%20including%20SQL%20queries.pdf)
 - [Table formats](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Apply%20filters%20to%20SQL%20queries/Table%20formats.pdf)
