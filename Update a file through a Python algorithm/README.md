@@ -2,7 +2,7 @@
 
 ### Activity Overview
 
-In this activity, I have demonstrated my experience using Python to develop algorithms that involve opening files and parsing their contents. I review the following scenario and access the supporting materials in order to fill out 
+In this activity, I have demonstrated my experience using Python to develop algorithms that involve opening files and parsing their contents. I reviewed the following scenario and accessed the supporting materials to complete [report](https://github.com/kevin-tran-tech/Google-Cybersecurity/blob/main/Update%20a%20file%20through%20a%20Python%20algorithm/Algorithm%20for%20file%20updates%20in%20Python%20.pdf) from an activity I have completed.
 
 ### Supporting Materials
 
