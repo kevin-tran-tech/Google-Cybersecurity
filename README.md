@@ -14,7 +14,12 @@
   - [Apply filters to SQL queries](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Apply%20filters%20to%20SQL%20queries)
 - #### Assets, Threats, and Vulnerabilities
   - [Analyze a vulnerable system for a small business](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business)
-  - 
+- #### Sound the Alartm: Detection and Response
+  - [Document an incident with an incident handler's journal](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Document%20an%20incident%20with%20an%20incident%20handler's%20journal)
+  - [Finalize your incident handler's journal](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Finalize%20your%20incident%20handler's%20journal)
+- #### Automate Cybersecurity Tasks with Python
+  - [Update a file through a Python algorithm](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Update%20a%20file%20through%20a%20Python%20algorithm)
+
 
 
 ### Key Takeaways
