@@ -21,8 +21,6 @@ At the end of this program, I have developed the following skills:
 ## 🗂️ Portfolio of Activities
 - ### Play It Safe: Manage Security Risks
   -  [Conduct a security Audit](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Conduct%20a%20security%20audit)
-    
-      - In this task, I conducted a thorough security audit on a given system, identifying vulnerabilities and providing mitigation recommendations.
 - ### Connect and Protect: Networks and Network Security
   - [Analyze network layer communication](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Analyze%20network%20layer%20communication)
   - [Analyze network attacks](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Analyze%20network%20attacks)
