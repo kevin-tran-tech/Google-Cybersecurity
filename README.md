@@ -1,5 +1,7 @@
 ## Google Cybersecurity - Portfolios
 
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~2LH1INNISPX8/CERTIFICATE_LANDING_PAGE~2LH1INNISPX8.jpeg" alt="Certificate">
+
 ### Introduction
 
 I have completed the certificate program and demonstrated my knowledge of cybersecurity by examining and completing the portfolio activities. 
@@ -28,4 +30,5 @@ The following contents below represents each individual portfolio activitities s
   - [Finalize your incident handler's journal](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Finalize%20your%20incident%20handler's%20journal)
 - #### Automate Cybersecurity Tasks with Python
   - [Update a file through a Python algorithm](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Update%20a%20file%20through%20a%20Python%20algorithm)
+
 
