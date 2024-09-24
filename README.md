@@ -2,6 +2,13 @@
 
 ### Introduction
 
+I have completed the certificate program and demonstrated my knowledge of cybersecurity by examining and completing the portfolio activities. 
+
+The following contents below represents each individual portfolio activitities separated by courses. 
+
+### Skills I have developed at the end of this program. 
+- Documentation, SQL, Linux, Python, Network Security, Incident Response, Conducting security audits. 
+
 ### Content
 - #### Play It Safe: Manage Security Risks
   -  [Conduct a security Audit](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Conduct%20a%20security%20audit)
@@ -22,7 +29,3 @@
 - #### Automate Cybersecurity Tasks with Python
   - [Update a file through a Python algorithm](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Update%20a%20file%20through%20a%20Python%20algorithm)
 
-
-
-### Key Takeaways
-- Technical Writing
