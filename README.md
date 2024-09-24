@@ -2,7 +2,7 @@
 
 <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~2LH1INNISPX8/CERTIFICATE_LANDING_PAGE~2LH1INNISPX8.jpeg" alt="Certificate">
 
-## Introduction
+## Overview
 
 I have successfully completed the **Google Cybersecurity Professional Certificate** through Coursera. This program covered essential cybersecurity topics and hands-on projects designed to prepare me for entry-level roles in cybersecurity.
 
@@ -14,8 +14,9 @@ At the end of this program, I have developed the following skills:
 - **Linux** for managing and securing systems
 - **Python** for automating cybersecurity tasks
 - **Network Security** including analyzing network attacks and OS hardening
-- **Incident Response** through filling out structured incident response templates, documenting timelines, threat assessments, and mitigation strategies.
-- **conducting security audits** 
+- **Incident Response** through filling out structured incident response templates, documenting timelines, threat assessments, and mitigation strategies
+- **Conducting security audits** by filling out checklists and providing recommendations
+- **Vulnerability assessments** for conducting risk assessment and remediation strategy
 
 ## 🗂️ Portfolio of Activities
 - ### Play It Safe: Manage Security Risks
