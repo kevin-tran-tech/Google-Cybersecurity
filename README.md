@@ -14,8 +14,8 @@ At the end of this program, I have developed the following skills:
 - **Linux** for managing and securing systems
 - **Python** for automating cybersecurity tasks
 - **Network Security** including analyzing network attacks and OS hardening
-- **Incident Response**
-- **conducting security audits**
+- **Incident Response** through filling out structured incident response templates, documenting timelines, threat assessments, and mitigation strategies.
+- **conducting security audits** 
 
 ## 🗂️ Portfolio of Activities
 - ### Play It Safe: Manage Security Risks
