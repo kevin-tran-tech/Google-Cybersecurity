@@ -34,7 +34,6 @@ At the end of this program, I have developed the following skills:
   - [Analyze a vulnerable system for a small business](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business)
 - ### Sound the Alarm: Detection and Response
   - [Document an incident with an incident handler's journal](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Document%20an%20incident%20with%20an%20incident%20handler's%20journal)
-  - [Finalize your incident handler's journal](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Finalize%20your%20incident%20handler's%20journal)
 - ### Automate Cybersecurity Tasks with Python
   - [Update a file through a Python algorithm](https://github.com/kevin-tran-tech/Google-Cybersecurity/tree/main/Update%20a%20file%20through%20a%20Python%20algorithm)
 
