@@ -4,7 +4,7 @@
 
 ## Overview
 
-I have successfully completed the **Google Cybersecurity Professional Certificate** through Coursera. This program covered essential cybersecurity topics and hands-on projects designed to prepare me for entry-level roles in cybersecurity.
+I have successfully completed the **Google Cybersecurity Professional Certificate** through Coursera. This program covered foundational cybersecurity topics and included hands-on projects designed to prepare me for exploring more advanced topics in computer security.
 
 ## 🛠️ Skills Developed
 At the end of this program, I have developed the following skills:
